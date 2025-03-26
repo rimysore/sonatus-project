@@ -1,4 +1,4 @@
-#Readme file to understand thought process and run commands.
+Readme file to understand thought process and run commands.
 
 #A simple wep app to fetch data from Mock API and display it in user friendly format.
 
@@ -8,7 +8,7 @@
 
 #The web app is fully responsive.(tested)
 
-#Clone this git into your local.
+#Clone this git into your local -> git clone https://github.com/rimysore/sonatus-project.git
 
 #run -  npm start
 
